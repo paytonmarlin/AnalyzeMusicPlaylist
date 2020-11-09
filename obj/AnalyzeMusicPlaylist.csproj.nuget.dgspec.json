@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MIZ-Pdog\\OneDrive - University of Missouri\\INFOTC 2040 Programing and Paradigms\\Module 12\\AnalyzeMusicPlaylist\\AnalyzeMusicPlaylist.csproj": {}
+    "C:\\Users\\MIZ-Pdog\\Desktop\\AnalyzeMusicPlaylist\\AnalyzeMusicPlaylist.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MIZ-Pdog\\OneDrive - University of Missouri\\INFOTC 2040 Programing and Paradigms\\Module 12\\AnalyzeMusicPlaylist\\AnalyzeMusicPlaylist.csproj": {
+    "C:\\Users\\MIZ-Pdog\\Desktop\\AnalyzeMusicPlaylist\\AnalyzeMusicPlaylist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MIZ-Pdog\\OneDrive - University of Missouri\\INFOTC 2040 Programing and Paradigms\\Module 12\\AnalyzeMusicPlaylist\\AnalyzeMusicPlaylist.csproj",
+        "projectUniqueName": "C:\\Users\\MIZ-Pdog\\Desktop\\AnalyzeMusicPlaylist\\AnalyzeMusicPlaylist.csproj",
         "projectName": "AnalyzeMusicPlaylist",
-        "projectPath": "C:\\Users\\MIZ-Pdog\\OneDrive - University of Missouri\\INFOTC 2040 Programing and Paradigms\\Module 12\\AnalyzeMusicPlaylist\\AnalyzeMusicPlaylist.csproj",
+        "projectPath": "C:\\Users\\MIZ-Pdog\\Desktop\\AnalyzeMusicPlaylist\\AnalyzeMusicPlaylist.csproj",
         "packagesPath": "C:\\Users\\MIZ-Pdog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MIZ-Pdog\\OneDrive - University of Missouri\\INFOTC 2040 Programing and Paradigms\\Module 12\\AnalyzeMusicPlaylist\\obj\\",
+        "outputPath": "C:\\Users\\MIZ-Pdog\\Desktop\\AnalyzeMusicPlaylist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MIZ-Pdog\\AppData\\Roaming\\NuGet\\NuGet.Config"

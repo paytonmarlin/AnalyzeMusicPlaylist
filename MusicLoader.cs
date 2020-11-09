@@ -8,7 +8,7 @@ namespace AnalyzeMusicPlaylist
     public static class MusicLoader
     {
         //specifies that there are 7 'fields' in the list
-        private static int NumItemsInRow = 7;
+        private static int NumItemsInRow = 8;
 
         //make a new list and load the data file path (input by user)
         public static List<Music> Load(string musicDataFilePath){
@@ -26,7 +26,7 @@ namespace AnalyzeMusicPlaylist
                         lineNumber++;
                         if (lineNumber == 1) continue;
 
-                        var values = line.Split("/t"); //splits into tabs, not commas
+                        var values = line.Split("\t"); //splits into tabs, not commas
 
                         if (values.Length != NumItemsInRow)
                         {
@@ -36,12 +36,13 @@ namespace AnalyzeMusicPlaylist
                         {
                             string name = (values[0]);
                             string artist = (values[1]);
-                            string genre = (values[2]);
-                            int size = Int32.Parse(values[3]);
-                            int time = Int32.Parse(values[4]);
-                            int year = Int32.Parse(values[5]);
-                            int plays = Int32.Parse(values[6]);
-                            Music music = new Music(name, artist, genre, size, time, year, plays);
+                            string album = (values[2]);
+                            string genre = (values[3]);
+                            int size = Int32.Parse(values[4]);
+                            int time = Int32.Parse(values[5]);
+                            int year = Int32.Parse(values[6]);
+                            int plays = Int32.Parse(values[7]);
+                            Music music = new Music(name, artist, album, genre, size, time, year, plays);
                             musicList.Add(music);
                         }
                         catch (FormatException e)
