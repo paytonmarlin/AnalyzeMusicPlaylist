@@ -1,0 +1,13 @@
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\bin\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.exe
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\bin\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.deps.json
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\bin\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.runtimeconfig.json
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\bin\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.runtimeconfig.dev.json
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\bin\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.dll
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\bin\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.pdb
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\obj\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.csprojAssemblyReference.cache
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\obj\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.AssemblyInfoInputs.cache
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\obj\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.AssemblyInfo.cs
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\obj\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\obj\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.dll
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\obj\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.pdb
+C:\Users\MIZ-Pdog\OneDrive - University of Missouri\INFOTC 2040 Programing and Paradigms\Module 12\AnalyzeMusicPlaylist\obj\Debug\netcoreapp3.1\AnalyzeMusicPlaylist.genruntimeconfig.cache
