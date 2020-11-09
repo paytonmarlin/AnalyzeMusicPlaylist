@@ -2,6 +2,7 @@ using System;
 
 namespace AnalyzeMusicPlaylist
 {
+    //create a class to initiate with all the headers inside the txt file
     public class Music
     {
         public string Name;
@@ -12,6 +13,7 @@ namespace AnalyzeMusicPlaylist
         public int Year;
         public int Plays;
 
+    //create constructor that takes in all attributes of the 'Music' class
         public Music(string name, string artist, string genre, int size, int time, int year, int plays)
         {
             Name = name;
